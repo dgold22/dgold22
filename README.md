@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on web fornt end 
 - 📫 How to reach me in dimaspradinanto0404@gmail.com
-- 😄 Pronouns: dimas
+- 😄 Pronouns: he
 
 <!---
 dgold22/dgold22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
